@@ -1,6 +1,11 @@
 #include <iostream>
 #include <queue>
 
+/*
+Task 1 - A program that adds to the queue X the size of N, the elements of the queue Y the size of K after the middle element
+Task 2 - A program that removes the K-number of elements after the middle element of queue X of size N
+*/
+
 using namespace std;
 
 int main()
